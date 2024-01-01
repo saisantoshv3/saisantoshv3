@@ -1,5 +1,4 @@
-### Hi there 👋 this is Sai Santosh, currently working as Lead- Data Research at [Factly] (https://www.Factlymedia.com)/ [Dataful] (https://www.dataful.in/)
-<!--
+### Hi there 👋 this is Sai Santosh, currently working as Lead- Data Research at [Factly](factlymedia.com)/[Dataful](dataful.in)
 **saisantoshv3/saisantoshv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
