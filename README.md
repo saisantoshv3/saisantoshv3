@@ -9,5 +9,5 @@
 reach me out on
 
 [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saisantoshv/) 
-[<img src='https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png' alt='twitter' height='40'>](https://twitter.com/SaisantoshV) 
+[<img src='https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png' alt='twitter' height='39'>](https://twitter.com/SaisantoshV) 
 
