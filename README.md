@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sai Santosh</h1>
 <h3 align="center">A Public Data Enthusiast</h3>
 
-- 🔭 I’m currently working as _Lead- Data Research_ @ [Dataful](https://dataful.in/), a Data Portal, where you can find clean, structured, ready-to-use datasets on various sectors related to India.
+- 🔭 I’m currently working as **_Lead- Data Research_** @ [Dataful](https://dataful.in/)- a Data portal, where you can find clean, structured and ready-to-use datasets on various sectors related to India.
 
-- 💬 Ask me about **Public Data| Data Cleaning**
+- 💬 Ask me about **Public Data | Data Cleaning**
 
-- ⚡ Fun fact **Solving Rubik's a Day Keeps Stress Away**
+- ⚡ Fun fact: **Solving Rubik's a Day Keeps Stress Away**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
