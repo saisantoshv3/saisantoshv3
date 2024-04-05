@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Public Data| Data Cleaning**
 
-- ⚡ Fun fact **Solving a Rubiks a Day Keeps Stress Away**
+- ⚡ Fun fact **Solving Rubik's a Day Keeps Stress Away**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
