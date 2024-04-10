@@ -2,13 +2,16 @@
 <h3 align="center">A Public Data Enthusiast</h3>
 
 ```
- 🔭  I’m Working as Lead- Data Research @ Dataful.in - a Data portal, where you can find clean, structured
+🔭 - I’m Working as Lead- Data Research @ Dataful.in - a Data portal, where you can find clean, structured
      and ready-to-use datasets on various sectors related to India.
- 💬  Ask me about Public Data | Data Cleaning | Data Analysis | Personal Finance
- ⚡   Did you Know Solving Rubik's a Day Keeps Stress Away ?
 
- Twitter: https://twitter.com/saisantoshv
- LinkedIn: https://linkedin.com/in/saisantoshv
+💬 - Ask me about Public Data | Data Cleaning | Data Analysis | Personal Finance
+
+⚡  - Did you Know Solving Rubik's a Day Keeps Stress Away ?
+
+
+LinkedIn: https://linkedin.com/in/saisantoshv
+X (Twitter): https://twitter.com/saisantoshv 
 ```
 
 
