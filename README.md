@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Santosh</h1>
-<h3 align="center">A Public Data Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Santosh;A+Public+Data+Enthusiast)](https://git.io/typing-svg)
 
 ```
 🔭 - I’m Working as Lead- Data Research @ Dataful.in - a Data portal, where you can find clean, structured
