@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-🔭 - I’m Working as Lead- Data Research @ Dataful.in - a Data portal, where you can find clean, structured
+🔭 - I’m Working as Lead- Data Research @[Dataful](https://dataful.in/) - a Data portal, where you can find clean, structured
      and ready-to-use datasets on various sectors related to India.
 
 💬 - Ask me about Public Data | Data Cleaning | Data Analysis | Personal Finance
