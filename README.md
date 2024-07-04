@@ -8,11 +8,6 @@ Hi there 👋
 
 ⚡  - Did you Know Solving Rubik's a Day Keeps Stress Away ?
 
-```
-LinkedIn: https://linkedin.com/in/saisantoshv
-X (Twitter): https://twitter.com/saisantoshv 
-```
-
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
