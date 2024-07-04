@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&multiline=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Santosh;A+Public+Data+Enthusiast)](https://git.io/typing-svg)
+Hi there 👋
 
-```
+
 🔭 - I’m Working as Lead- Data Research @ Dataful.in - a Data portal, where you can find clean, structured
      and ready-to-use datasets on various sectors related to India.
 
@@ -8,7 +8,7 @@
 
 ⚡  - Did you Know Solving Rubik's a Day Keeps Stress Away ?
 
-
+```
 LinkedIn: https://linkedin.com/in/saisantoshv
 X (Twitter): https://twitter.com/saisantoshv 
 ```
@@ -25,4 +25,3 @@ X (Twitter): https://twitter.com/saisantoshv
 
 ✈️ 👨‍🍳 🎼 🌊 ⛰️ 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisantoshv3&show_icons=true&locale=en&layout=compact" alt="saisantoshv3" /></p>
